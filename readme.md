@@ -8,6 +8,8 @@
 
 [![PayPal](https://img.shields.io/badge/PayPal-donate-blue.svg)](https://paypal.me/rennokki)
 
+# The rennokki / plans package archive
+
 # The package is not maintained anymore
 Try to fork your own version of the package or use [Laravel Spark](https://spark.laravel.com) for a complete experience on plans.
 
